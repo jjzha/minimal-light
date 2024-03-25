@@ -20,9 +20,9 @@ linkedin: https://www.linkedin.com/jjzha
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/mike_zhang.png
-favicon: 🤙
-favicon_dark: 🤙
+avatar: ./assets/img/mike_zhang.jpg
+favicon: ./assets/img/favicon_io/favicon-16x16.png
+favicon_dark: ./assets/img/favicon_io/favicon-16x16.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
