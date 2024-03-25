@@ -1,8 +1,11 @@
 ## Services
 
 <h4 style="margin:0 10px 0;">Chairing</h4>
+
+<ul style="margin:0 0 5px;">
   <li><a href="https://sites.google.com/view/eacl2024srw/homepage/"><autocolor>The 18th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop (2024)</autocolor></a></li>
   <li><a href="https://lrec2022.lrec-conf.org/en/"><autocolor>The 13th Edition of its Language Resources and Evaluation Conference (2022)</autocolor></a></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
