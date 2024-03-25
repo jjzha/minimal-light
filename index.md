@@ -4,20 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello there! My name is Mike Zhang. I'm a Postdoc in NLP at Aalborg University (AAU, Copenhagen campus) advised by Prof. <a href="https://bjerva.github.io/"><u>Johannes Bjerva</u></a>. My research is currently focused on NLP for Education.
 
-## Research Interests
+Previously, I was a PhD Student in NLP at the IT University of Copenhagen (ITU)
+advised by Prof. <a href="http://bplank.github.io"><u>Barbara Plank</u></a> and Prof. <a href="http://robvanderg.github.io"><u>Rob van der Goot</u></a>. I was part of
+<a href="http://nlpnorth.github.io"><u>NLPnorth</u></a> at ITU and <a href="https://mainlp.github.io"><u>MaiNLP</u></a> at the Ludwig Maximilian University of Munich (LMU). I worked on Computational Job Market Analysis (or NLP for HR), where we investigated how to extract information from job advertisement data and match these to existing resources (e.g., taxonomies).
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am interested in:
+  - **NLP for Education**: Can we improve students' learning by giving them automatic feedback from NLP tools (e.g., language models)? How can we do this over time?
+  - **NLP for HR**: How can we extract relevant skills from job ads and in what way can we match them with existing taxonomies to assist job centers matching candidates to jobs better?
+  - **Expertise**: My knowledge is mostly on resource creation, developing annotation guidelines for data annotation, (multilingual) datasets creation in general and specific domains, and language model training on small and large scale.
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[25 Mar. 2024]** My Ph.D. thesis is now online! See the temporary version [here](https://pure.itu.dk/ws/portalfiles/portal/103296564/PhD_Thesis_Temporary_Version_Mike_Zhang.pdf).
+- **[20 Feb. 2024]** One paper accepted at LREC-COLING! See you there!
+- **[15 Feb. 2024]** I started my Postdoc at Aalborg University working on NLP for Education!
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/invited_talks.md %}

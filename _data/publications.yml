@@ -1,22 +1,38 @@
 main:
+  - title: "NNOSE: Nearest Neighbor Occupational Skill Extraction"
+    authors: <strong>Mike Zhang</strong>, Rob van der Goot, Min-Yen Kan, Barbara Plank
+    conference_short: EACL2024
+    conference: The 18th Conference of the European Chapter of the Association for Computational Linguistics, 2024.
+    pdf: https://aclanthology.org/2024.eacl-long.35/
+    code: https://github.com/mainlp/nnose
+    bibtex: ./assets/bibtex/2024.eacl-long.35.bib
+    image: ./assets/img/paper_teaser/eacl2024.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "ESCOXLM-R: Multilingual Taxonomy-driven Pre-training for the Job Market Domain"
+    authors: <strong>Mike Zhang</strong>, Rob van der Goot, Barbara Plank
+    conference_short: ACL2023
+    conference: roceedings of the The 61st Annual Meeting of the Association for Computational Linguistics, 2023.
+    pdf: https://aclanthology.org/2023.acl-long.662/
+    code: https://github.com/mainlp/escoxlmr
+    bibtex: ./assets/bibtex/2023.acl-long.662.bib
+    image: ./assets/img/paper_teaser/acl2023.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "SkillSpan: Hard and Soft Skill Extraction from English Job Postings"
+    authors: <strong>Mike Zhang</strong>, Kristian Nørgaard Jensen, Sif Dam Sonniks, Barbara Plank
+    conference_short: NAACL2022
+    conference: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics; Human Language Technologies, 2022.
+    pdf: https://aclanthology.org/2022.naacl-main.366/
+    code: https://github.com/kris927b/SkillSpan/
+    bibtex: ./assets/bibtex/2022.naacl-main.366.bib
+    image: ./assets/img/paper_teaser/naacl22.png
+
+  # - title: "Grunn2019 at SemEval-2019 task 5: Shared task on multilingual detection of hate"
+  #   authors: <strong>Mike Zhang</strong>, Roy David, Leon Graumans, Gerben Timmerman
+  #   conference_short: SemEval2019
+  #   conference: Proceedings of the 13th International Workshop on Semantic Evaluation, 2019.
+  #   pdf: https://aclanthology.org/S19-2069/
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
