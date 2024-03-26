@@ -1,6 +1,8 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 <br>
 For the full list of publications, see my <a href="https://scholar.google.nl/citations?user=Zw6i1v0AAAAJ&hl=en">Google Scholar</a>.
+<br>
+If you're interested in my Ph.D. Thesis, see here: <a href="./assets/files/thesis-presentation-mz.pdf">[Slides]</a> <a href="https://pure.itu.dk/ws/portalfiles/portal/103296564/PhD_Thesis_Temporary_Version_Mike_Zhang.pdf">[Thesis]</a>.
 
 <div class="publications">
 <ol class="bibliography">
