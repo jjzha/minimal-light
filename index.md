@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello there! My name is Mike Zhang. I'm a Postdoc in NLP at Aalborg University (AAU, Copenhagen campus) advised by Prof. <a href="https://bjerva.github.io/"><u>Johannes Bjerva</u></a> and <a href="https://vbn.aau.dk/en/persons/153280"><u>Euan Lindsay</u></a>. My research is currently at the intersection of NLP and Education.
+Hello there! My name is Mike Zhang. I'm a Postdoc in NLP at Aalborg University (AAU, Copenhagen campus) advised by Prof. <a href="https://bjerva.github.io/"><u>Johannes Bjerva</u></a> and Prof. <a href="https://vbn.aau.dk/en/persons/153280"><u>Euan Lindsay</u></a>. My research is currently at the intersection of NLP and Education.
 
 Previously, I was a PhD Student in NLP at the IT University of Copenhagen (ITU)
 advised by Prof. <a href="http://bplank.github.io"><u>Barbara Plank</u></a> and Prof. <a href="http://robvanderg.github.io"><u>Rob van der Goot</u></a>. I was part of
