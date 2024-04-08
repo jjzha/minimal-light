@@ -18,7 +18,7 @@ I am interested in:
   - **Expertise**: My knowledge is mostly on resource creation, developing annotation guidelines for data annotation, (multilingual) datasets creation in both general and specific domains, and language model training on small and large scale.
 
 
-## News
+## What am I up to
 
 - **[25 Mar. 2024]** My Ph.D. thesis is now online! See the temporary version [here](https://pure.itu.dk/ws/portalfiles/portal/103296564/PhD_Thesis_Temporary_Version_Mike_Zhang.pdf).
 - **[20 Feb. 2024]** One paper accepted at LREC-COLING! See you there!
