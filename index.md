@@ -10,7 +10,7 @@ Previously, I was a PhD Student in NLP at the IT University of Copenhagen (ITU)
 advised by Prof. <a href="http://bplank.github.io"><u>Barbara Plank</u></a> and Prof. <a href="http://robvanderg.github.io"><u>Rob van der Goot</u></a>. I was part of
 <a href="http://nlpnorth.github.io"><u>NLPnorth</u></a> at ITU and <a href="https://mainlp.github.io"><u>MaiNLP</u></a> at the Ludwig Maximilian University of Munich (LMU). I worked on Computational Job Market Analysis (or NLP for HR), where we investigated how to extract information (e.g., skills) from job ads data and match these to existing resources (e.g., taxonomies).
 
-I was fortunate to have conducted a couple of (successful) Ph.D. research visits to (1) the National University of Singapore (NUS) hosted by Prof. <a href="https://www.comp.nus.edu.sg/~kanmy/"><u>Min-Yen Kan</u></a> in Spring 2023 and (2) the Swiss Federal Institute of Technology in Lausanne (EPFL) hosted by Prof. <a href="https://atcbosselut.github.io/"><u>Antoine Bosselut</u></a> in Winter 2024. 
+I was fortunate to have conducted a couple of (successful) Ph.D. research visits to (1) the National University of Singapore (NUS) hosted by Prof. <a href="https://www.comp.nus.edu.sg/~kanmy/"><u>Min-Yen Kan</u></a> in Spring 2023 and (2) the Swiss Federal Institute of Technology in Lausanne (EPFL) hosted by Prof. <a href="https://atcbosselut.github.io/"><u>Antoine Bosselut</u></a> in Winter 2024, in both cases working on projects in Computational Job Market Analysis (or NLP for HR).
 
 I am interested in:
   - **NLP for Education**: Can we improve students' learning by giving them automatic feedback from NLP tools (e.g., language models)? How can we do this over time?
