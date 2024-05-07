@@ -20,7 +20,7 @@ I am interested in:
 
 ## What am I up to
 
-- **[25 Mar. 2024]** My Ph.D. thesis is now online! See the temporary version [here](https://pure.itu.dk/ws/portalfiles/portal/103296564/PhD_Thesis_Temporary_Version_Mike_Zhang.pdf).
+- **[25 Mar. 2024]** My Ph.D. thesis is now online! See the ArXiv version [here](https://arxiv.org/pdf/2404.18977).
 - **[20 Feb. 2024]** One paper accepted at LREC-COLING! See you there!
 - **[15 Feb. 2024]** I started my Postdoc at Aalborg University working on NLP for Education!
 
